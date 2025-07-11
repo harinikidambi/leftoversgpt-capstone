@@ -15,6 +15,7 @@ This project is part of my AI Product Management certification, led by Miqdad Ja
 |---------------|-------------|
 | `[Harini] Capstone Submission 1 - Product Faculty AI Product Certification` | Full product requirements document (problem framing, journey map, MVP scope, LLM application, etc.) |
 | `AI Capstone Project - Evaluation Questions` | Golden dataset (input-output pairs) for evaluation |
+| `leftoversgpt_grading_criteria.md` | Documents the custom grading logic used during model evaluation for LeftoversGPT|
 | `LeftoversGPT Evaluation Summary` | Screenshot of model evaluation summary showing grader config and pass rates |
 | `eval_items_OutputDataItemStatusParam.ALL_2025-07-11_04-21-24.jsonl` | Raw results from 65 evaluation test cases with grading by custom OpenAI model graders |
 | `README.md` | You're here :) |
